@@ -1,0 +1,7 @@
+.super-button {
+  display: inline-block;
+  border: 1px solid #ccc;
+  border-radius: 0.6rem;
+  padding: 1rem;
+  cursor: pointer;
+}

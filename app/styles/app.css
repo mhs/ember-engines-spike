@@ -1,0 +1,24 @@
+* { margin: 0; padding: 0; }
+
+html {
+  font-family: 'San Francisco', -apple-system, BlinkMacSystemFont, '.SFNSText-Regular', 'Helvetica Neue', Helvetica, sans-serif;
+  font-size: 10px;
+}
+
+body {
+  padding: 20px;
+  font-size: 1.6rem;
+}
+
+h1 {
+  margin-bottom: 3rem;
+  border-bottom: 1px solid #ddd;
+  padding-bottom: 1rem;
+  color: #40c057;
+}
+
+h2 {
+  color: #555;
+  font-size: 2.1rem;
+  text-transform: uppercase;
+}
